@@ -1,7 +1,2 @@
 My first file
 Second line
-
-shopping list
-bread 
-butter
----------
